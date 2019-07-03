@@ -1,9 +1,12 @@
+<!DOCTYPE html>
 <html>
-<body >
-<h2>Jenkins Successfully Deloyed War file in Tomcat! by ekta
-	<br>
-	edited again and pushed
-  <br> again dited
-</h2>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
 </body>
 </html>
